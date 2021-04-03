@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://google-meet-transcripts.newnoetic.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://google-meet-transcripts.newnoetic.com/</loc>
+</url>
+<url>
+<loc>https://google-meet-transcripts.newnoetic.com/google-meet-transcripts-safari-extension/</loc>
+<lastmod>2021-04-02T20:45:31-07:00</lastmod>
+<image:image>
+<image:loc>https://google-meet-transcripts.newnoetic.com/media/posts/1/header-2-2.png</image:loc>
+<image:title><![CDATA[Google Meet Transcripts header]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://google-meet-transcripts.newnoetic.com/media/posts/1/800px-Download_on_the_App_Store_Badge.svg.png</image:loc>
+<image:title><![CDATA[App Store badge]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://google-meet-transcripts.newnoetic.com/media/posts/1/gallery/MacBook-Pro-1-thumbnail.png</image:loc>
+<image:title><![CDATA[Screenshot of starting transcription]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://google-meet-transcripts.newnoetic.com/media/posts/1/gallery/MacBook-Pro-2-thumbnail.png</image:loc>
+<image:title><![CDATA[Screenshot of copying transcript]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://google-meet-transcripts.newnoetic.com/media/posts/1/gallery/MacBook-Pro-3-thumbnail.png</image:loc>
+<image:title><![CDATA[Screenshot of previous transcripts]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://google-meet-transcripts.newnoetic.com/media/posts/1/800px-Download_on_the_App_Store_Badge.svg.png</image:loc>
+<image:title><![CDATA[App Store badge]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://google-meet-transcripts.newnoetic.com/privacy-policy/</loc>
+<lastmod>2021-04-02T20:47:52-07:00</lastmod>
+</url>
+</urlset>

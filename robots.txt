@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://google-meet-transcripts.newnoetic.com/sitemap.xml
